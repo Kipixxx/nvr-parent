@@ -1,0 +1,11 @@
+name: ${name}
+version: ${project.version}
+api-version: ${bukkit-api.version}
+
+description: ${description}
+author: ${author}
+website: ${url}
+
+main: fr.novaria.skygrid.SkyGrid
+
+load: STARTUP
